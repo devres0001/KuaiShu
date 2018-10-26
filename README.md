@@ -1,7 +1,5 @@
-# KuaiShu
 
-
-# Renara-Technical Support
+# 快熟 KuaiShu -Technical Support
 
 
 <img src="https://www.jacques.com.au/wp-content/uploads/WEB_ICO_Technical-Support.png" height="200">
